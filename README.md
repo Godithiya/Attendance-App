@@ -2,18 +2,18 @@
 
 Attendance App adalah aplikasi sederhana berbasis web yang digunakan untuk mengelola data kehadiran. Aplikasi ini dibangun menggunakan ReactJS untuk frontend dan Supabase sebagai backend untuk penyimpanan data.
 ### Fitur:
-    1. **Tambah Data**
-        -Formulir input untuk menambahkan data kehadiran.
-    2. **Hapus Data Individu**
-        -Hapus data berdasarkan ID dengan konfirmasi terlebih dahulu.
-    3. **Generate Data Acak**
-        -Secara otomatis menghasilkan 50 data acak menggunakan library Chance.js.
-    4. **Pilih dan Hapus Banyak Data**
-        -Pilih beberapa data sekaligus menggunakan checkbox dan hapus secara massal.
-    5. **Tabel Data**
-        -Tampilkan data dari database Supabase dalam bentuk tabel interaktif.
-    6. **Update Data (Placeholder)**
-        -Tombol untuk update data disediakan (fungsionalitas dapat ditambahkan).
+    1. * Tambah Data
+        - Formulir input untuk menambahkan data kehadiran.
+    2. * Hapus Data Individu
+        - Hapus data berdasarkan ID dengan konfirmasi terlebih dahulu.
+    3. * Generate Data Acak
+        - Secara otomatis menghasilkan 50 data acak menggunakan library Chance.js.
+    4. * Pilih dan Hapus Banyak Data
+        - Pilih beberapa data sekaligus menggunakan checkbox dan hapus secara massal.
+    5. * Tabel Data
+        - Tampilkan data dari database Supabase dalam bentuk tabel interaktif.
+    6. * Update Data (Placeholder)
+        - Tombol untuk update data disediakan (fungsionalitas dapat ditambahkan).
 
 ## Teknologi yang Digunakan
     1. ReactJS: Library frontend untuk membangun antarmuka pengguna.
